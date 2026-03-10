@@ -1,5 +1,5 @@
 {
-    "name": "DTMNexus/admin",
+    "name": "dtmnexus/admin",
     "type": "project",
     "description": "Realtime Administrative Memo Management System",
     "require": {
